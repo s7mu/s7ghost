@@ -116,4 +116,4 @@ npm test
 
 ## License
 
-[MIT](LICENSE) © 2026 Samu
+[MIT](LICENSE) © 2026 s7mu

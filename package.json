@@ -18,7 +18,7 @@
     "realtime",
     "websocket"
   ],
-  "author": "Samu",
+  "author": "s7mu",
   "license": "MIT",
   "dependencies": {
     "express": "^4.21.2",
