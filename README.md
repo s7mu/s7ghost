@@ -7,6 +7,10 @@
 [![Docker](https://img.shields.io/badge/Docker-ready-blue.svg)](https://docker.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
+<br>
+
+![s7ghost Interface Preview](assets/example.png)
+
 ---
 
 ## Features
