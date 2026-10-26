@@ -1,0 +1,28 @@
+{
+  "name": "s7ghost",
+  "version": "1.0.0",
+  "description": "Minimal, fast, ephemeral text & note transfer web app",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node tests/test.js && node tests/e2e.test.js"
+  },
+  "keywords": [
+    "chat",
+    "ephemeral",
+    "clipboard",
+    "raspberrypi",
+    "cloudflare",
+    "realtime",
+    "websocket"
+  ],
+  "author": "Samu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "qrcode": "^1.5.4",
+    "ws": "^8.18.0"
+  }
+}
